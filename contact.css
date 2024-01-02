@@ -76,6 +76,10 @@ button{
     height: 29px;
     margin-top: 15px;
 }
+.log2{
+    text-decoration: none;
+    color: black;
+}
 .image{
     
     margin-top: 200px;
