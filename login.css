@@ -1,0 +1,47 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.login{
+    text-align: center;
+   
+}
+.p2{
+    border-radius: 5px;
+    border-color: black;
+    border: 1px;
+    border-style: solid;
+    /* background-color: aquamarine; */
+    
+}
+.r1{
+    width: 400px;
+}
+.r3{
+    width: 350px;
+    border-radius: 8px;
+    height: 30px;
+}
+.r4, .r5{
+    display: flex;
+    margin-left: 24px;
+}
+.r7{
+    margin-left: 122px;
+    margin-top: 29px;
+}
+.r6{
+    margin-left: 0;
+}
+button{
+    padding: 10px;
+    background-color: rgb(49, 148, 223);
+    width: 390px;
+    border-radius: 5px;
+    
+
+}
+.bu{
+    color: black;
+    text-decoration: none;
+}
