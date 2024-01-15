@@ -171,6 +171,14 @@ footer{
 .icon1{
     margin-left: 150px;
 
-}
+}@media (max-width:980px){
+    .grid{
+        display: block;
+        width: 100%;
+    }
+    
+
+
+} 
 
 

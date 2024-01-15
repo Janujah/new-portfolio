@@ -187,3 +187,10 @@ input{
     text-decoration: none;
     color: black;
 }
+@media (max-width:1350px){
+    .grid{
+        display: block;
+    }
+
+}
+    
