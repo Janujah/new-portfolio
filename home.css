@@ -87,7 +87,7 @@ button{
     
     
 } 
-.h{
+.links{
     text-decoration: none;
     color: black;
     font-size: smaller;
@@ -172,10 +172,22 @@ footer{
     margin-left: 150px;
 
 }@media (max-width:980px){
+
     .grid{
         display: block;
+        
+    }
+    nav{
+        justify-content: center;
+    }
+    footer{
+        text-align: center;
+    }
+    .links{
         width: 100%;
     }
+
+
     
 
 
