@@ -1,9 +1,8 @@
 *{
     position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
-
-
-
 img{
     margin-left: 50px;
     height: 50px;
@@ -44,6 +43,7 @@ nav li a{
     padding-left: 0;
     width: 14px;
     margin-top: 19px;
+    font-size: 30px;
 }
  nav li :hover{
     color: rgb(0, 0, 0);
@@ -52,22 +52,24 @@ nav li a{
     
 }   
 nav img{
-    width: 50px;
-    height: 40px;
-    margin-right: 5px;
-    margin: auto;
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+    margin: 0;
+
 }
 .nav{
     display: flex;
 }
 button{
-    width: 100px;
+    width: 130  px;
     background-color: rgba(98, 184, 227, 0.908);
     border-radius: 5px;
     position: relative;
     padding-top: 5px;
     padding-bottom: 5px;
-    
+    height: 40px;
+    font-size: 20px
 }
 .log{
     width: 100px;
@@ -103,10 +105,13 @@ footer{
 }
 .blue{
     color: rgb(43, 104, 226);
-    font-size: medium;
+    font-size: 70px;
+}
+.iam{
+    font-size: 50px;
 }
 .size1{
-    font-size: 60px;
+    font-size: 70px;
 }
 
 .janu{
@@ -185,6 +190,9 @@ footer{
     }
     .links{
         width: 100%;
+    }
+    body{
+        background-color: brown;
     }
 
 
